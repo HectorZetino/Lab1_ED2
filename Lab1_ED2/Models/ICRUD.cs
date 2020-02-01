@@ -7,5 +7,6 @@ namespace Lab1_ED2.Models
 {
     interface ICRUD
     {
+        public void AddNewNode(Drink n_node);
     }
 }
